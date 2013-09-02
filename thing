@@ -1,0 +1,6 @@
+on 1:TEXT:*3L*:#: { if ($address($nick,4) == *!*@*.perpetual.development) { /msg Hanyuu-sama .fave } }
+on 1:TEXT:*anporin*:#: { if ($address($nick,4) == *!*@*.perpetual.development) { /msg Hanyuu-sama .fave } }
+on 1:TEXT:*Sayuri Anpo*:#: { if ($address($nick,4) == *!*@*.perpetual.development) { /msg Hanyuu-sama .fave } }
+on 1:TEXT:*Anri Yu*:#: { if ($address($nick,4) == *!*@*.perpetual.development) { /msg Hanyuu-sama .fave } }
+on 1:TEXT:*Unknown-Poly*:#: { if ($address($nick,4) == *!*@*.perpetual.development) { /msg Hanyuu-sama .fave } }
+on 1:TEXT:*?????*:#: { if ($address($nick,4) == *!*@*.perpetual.development) { /msg Hanyuu-sama .fave } }
